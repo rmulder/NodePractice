@@ -1,0 +1,6 @@
+{
+    "name":"Node-mosh app prod",
+    "mail":{
+        "host":"prod-mail"
+    }
+}

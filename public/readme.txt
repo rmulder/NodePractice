@@ -1,0 +1,1 @@
+THis is a txt static file
